@@ -1,0 +1,304 @@
+2023-11-30 11:13:12    [INFO]             new session with uid `650fa2ea-8f2e-11ee-b52c-be9e347a0ee6`
+2023-11-30 11:14:18    [INFO]             new session with uid `8c72135e-8f2e-11ee-b93a-be9e347a0ee6`
+2023-11-30 11:15:07    [INFO]             invalid uid `None`
+2023-11-30 11:15:21    [INFO]             invalid uid `None`
+2023-11-30 11:15:29    [INFO]             new session with uid `b6ab3420-8f2e-11ee-8589-be9e347a0ee6`
+2023-11-30 11:15:38    [INFO]             invalid uid `b6ab3420-8f2e-11ee-8589-be9e347a0ee6`
+2023-11-30 11:16:17    [INFO]             invalid uid `b6ab3420-8f2e-11ee-8589-be9e347a0ee6`
+2023-11-30 11:16:29    [INFO]             new session with uid `dab33a2a-8f2e-11ee-a182-be9e347a0ee6`
+2023-11-30 11:16:39    [INFO]             invalid uid `None`
+2023-11-30 11:16:47    [INFO]             invalid uid `dab33a2a-8f2e-11ee-a182-be9e347a0ee6`
+2023-11-30 11:18:16    [INFO]             new session with uid `1a3609ca-8f2f-11ee-9d0b-be9e347a0ee6`
+2023-11-30 11:18:24    [INFO]             create room with room_id `1efc` by session `1a3609ca-8f2f-11ee-9d0b-be9e347a0ee6`
+2023-11-30 11:25:01    [INFO]             invalid uid `1a3609ca-8f2f-11ee-9d0b-be9e347a0ee6`
+2023-11-30 11:25:11    [INFO]             new session with uid `11b3ca8e-8f30-11ee-bdea-be9e347a0ee6`
+2023-11-30 11:25:21    [INFO]             invalid uid `None`
+2023-11-30 11:26:29    [INFO]             new session with uid `400c6c7e-8f30-11ee-8c75-be9e347a0ee6`
+2023-11-30 11:26:35    [INFO]             invalid uid `None`
+2023-11-30 11:27:11    [INFO]             invalid uid `400c6c7e-8f30-11ee-8c75-be9e347a0ee6`
+2023-11-30 11:27:17    [INFO]             new session with uid `5d118e8a-8f30-11ee-9582-be9e347a0ee6`
+2023-11-30 11:29:56    [INFO]             invalid uid `None`
+2023-11-30 11:31:44    [INFO]             invalid uid `5d118e8a-8f30-11ee-9582-be9e347a0ee6`
+2023-11-30 11:31:53    [INFO]             new session with uid `018dfa2a-8f31-11ee-b24f-be9e347a0ee6`
+2023-11-30 11:32:03    [INFO]             invalid uid `None`
+2023-11-30 12:01:51    [INFO]             new session with uid `30ec6690-8f35-11ee-81b5-be9e347a0ee6`
+2023-11-30 12:02:43    [INFO]             new session with uid `504f301c-8f35-11ee-81b5-be9e347a0ee6`
+2023-11-30 12:03:51    [INFO]             new session with uid `78af8318-8f35-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:04:28    [INFO]             new session with uid `8ecc8538-8f35-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:04:29    [INFO]             new session with uid `8f20bb76-8f35-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:05:23    [INFO]             new session with uid `afc203e4-8f35-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:08:26    [INFO]             new session with uid `1c40d2ac-8f36-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:09:43    [INFO]             new session with uid `4a4b0532-8f36-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:10:50    [INFO]             new session with uid `7271c172-8f36-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:12:38    [INFO]             new session with uid `b2a072ac-8f36-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:12:39    [INFO]             new session with uid `b333d77c-8f36-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:12:39    [INFO]             new session with uid `b34f9840-8f36-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:12:39    [INFO]             new session with uid `b3721528-8f36-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:29:58    [INFO]             new session with uid `1ed9bf1c-8f39-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:31:28    [INFO]             new session with uid `545075fa-8f39-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:34:13    [INFO]             new session with uid `b683f1fc-8f39-11ee-a02f-be9e347a0ee6`
+2023-11-30 12:34:34    [INFO]             new session with uid `c3309d10-8f39-11ee-9de6-be9e347a0ee6`
+2023-11-30 12:36:35    [INFO]             new session with uid `0b7df54a-8f3a-11ee-9de6-be9e347a0ee6`
+2023-11-30 12:43:47    [INFO]             new session with uid `0c8a0798-8f3b-11ee-a84f-be9e347a0ee6`
+2023-11-30 16:05:01    [INFO]             new session with uid `2936d530-8f57-11ee-9ff2-be9e347a0ee6`
+2023-11-30 18:47:40    [INFO]             new session with uid `e27248b6-8f6d-11ee-81c7-be9e347a0ee6`
+2023-11-30 18:59:01    [INFO]             new session with uid `7837be5c-8f6f-11ee-9012-be9e347a0ee6`
+2023-11-30 18:59:45    [INFO]             new session with uid `9275f806-8f6f-11ee-9012-be9e347a0ee6`
+2023-11-30 19:06:04    [INFO]             new session with uid `7437e25e-8f70-11ee-a995-be9e347a0ee6`
+2023-11-30 19:13:48    [INFO]             new session with uid `88b77c16-8f71-11ee-a995-be9e347a0ee6`
+2023-11-30 19:14:06    [INFO]             new session with uid `93d41032-8f71-11ee-a995-be9e347a0ee6`
+2023-11-30 19:14:31    [INFO]             new session with uid `a269a666-8f71-11ee-a995-be9e347a0ee6`
+2023-11-30 19:14:55    [INFO]             new session with uid `b0c5e7b0-8f71-11ee-a995-be9e347a0ee6`
+2023-11-30 19:15:18    [INFO]             new session with uid `be3b40ac-8f71-11ee-a995-be9e347a0ee6`
+2023-11-30 19:55:59    [INFO]             new session with uid `6d7de678-8f77-11ee-a995-be9e347a0ee6`
+2023-11-30 20:10:13    [INFO]             new session with uid `6a84f2ac-8f79-11ee-a995-be9e347a0ee6`
+2023-11-30 20:38:21    [INFO]             new session with uid `58bab544-8f7d-11ee-a995-be9e347a0ee6`
+2023-11-30 20:56:31    [INFO]             invalid uid `None`
+2023-11-30 20:56:56    [INFO]             invalid uid `None`
+2023-11-30 20:57:13    [INFO]             invalid uid `None`
+2023-11-30 20:59:50    [INFO]             invalid uid `None`
+2023-11-30 21:00:02    [INFO]             new session with uid `60118d88-8f80-11ee-8b87-be9e347a0ee6`
+2023-11-30 21:00:16    [INFO]             invalid uid `None`
+2023-11-30 21:02:16    [INFO]             invalid uid `None`
+2023-11-30 21:08:39    [INFO]             invalid uid `None`
+2023-11-30 21:11:29    [INFO]             new session with uid `f95a431c-8f81-11ee-b94b-be9e347a0ee6`
+2023-11-30 21:13:09    [INFO]             invalid uid `None`
+2023-11-30 21:14:20    [INFO]             new session with uid `5f7a0402-8f82-11ee-a2c6-be9e347a0ee6`
+2023-11-30 21:14:31    [INFO]             new session with uid `65e82b5c-8f82-11ee-a2c6-be9e347a0ee6`
+2023-11-30 21:14:34    [INFO]             new session with uid `6806c010-8f82-11ee-a2c6-be9e347a0ee6`
+2023-11-30 21:14:43    [INFO]             new session with uid `6d3ffbfa-8f82-11ee-a2c6-be9e347a0ee6`
+2023-11-30 21:14:45    [INFO]             new session with uid `6e4b968a-8f82-11ee-a2c6-be9e347a0ee6`
+2023-11-30 21:15:05    [INFO]             invalid uid `None`
+2023-11-30 21:16:34    [INFO]             invalid uid `None`
+2023-11-30 21:18:55    [INFO]             new session with uid `03744040-8f83-11ee-9cb9-be9e347a0ee6`
+2023-11-30 21:19:01    [INFO]             session $03744040-8f83-11ee-9cb9-be9e347a0ee6 failed to create room because of invalid player_num or player_kind
+2023-11-30 21:19:44    [INFO]             session $03744040-8f83-11ee-9cb9-be9e347a0ee6 failed to create room because of invalid player_num or player_kind
+2023-11-30 21:20:20    [INFO]             new session with uid `36419f22-8f83-11ee-8c12-be9e347a0ee6`
+2023-11-30 21:23:43    [INFO]             new session with uid `af07ae92-8f83-11ee-8c0e-be9e347a0ee6`
+2023-11-30 21:24:14    [INFO]             new session with uid `c1562204-8f83-11ee-94d2-be9e347a0ee6`
+2023-11-30 21:25:42    [INFO]             new session with uid `f62ba3a0-8f83-11ee-b417-be9e347a0ee6`
+2023-11-30 21:26:39    [INFO]             new session with uid `17ce3fa4-8f84-11ee-bc60-be9e347a0ee6`
+2023-11-30 21:29:21    [INFO]             new session with uid `7887b050-8f84-11ee-9562-be9e347a0ee6`
+2023-11-30 21:32:55    [INFO]             invalid uid `7887b050-8f84-11ee-9562-be9e347a0ee6`
+2023-11-30 21:33:01    [INFO]             new session with uid `fb718496-8f84-11ee-bd84-be9e347a0ee6`
+2023-11-30 21:35:13    [INFO]             new session with uid `4a61377c-8f85-11ee-a37f-be9e347a0ee6`
+2023-11-30 21:35:51    [INFO]             new session with uid `60c1a876-8f85-11ee-bef6-be9e347a0ee6`
+2023-11-30 21:35:55    [INFO]             create room with room_id `6321` by session `60c1a876-8f85-11ee-bef6-be9e347a0ee6`
+2023-11-30 21:41:18    [INFO]             new session with uid `23defb74-8f86-11ee-a25b-be9e347a0ee6`
+2023-11-30 21:41:22    [INFO]             session $23defb74-8f86-11ee-a25b-be9e347a0ee6 join room $2650
+2023-11-30 21:41:22    [INFO]             create room with room_id `2650` by session `23defb74-8f86-11ee-a25b-be9e347a0ee6`
+2023-12-01 08:20:56    [INFO]             new session with uid `7f1cd2c8-8fdf-11ee-b23c-be9e347a0ee6`
+2023-12-01 08:21:09    [INFO]             invalid uid `7f1cd2c8-8fdf-11ee-b23c-be9e347a0ee6`
+2023-12-01 08:39:34    [INFO]             new session with uid `19332e64-8fe2-11ee-8746-be9e347a0ee6`
+2023-12-01 08:41:01    [INFO]             new session with uid `4cfbe146-8fe2-11ee-8746-be9e347a0ee6`
+2023-12-01 08:41:03    [INFO]             new session with uid `4e92cd8a-8fe2-11ee-8746-be9e347a0ee6`
+2023-12-01 08:42:32    [INFO]             new session with uid `836fba36-8fe2-11ee-a34b-be9e347a0ee6`
+2023-12-01 08:42:51    [INFO]             new session with uid `8e997d16-8fe2-11ee-84c2-be9e347a0ee6`
+2023-12-01 08:47:47    [INFO]             new session with uid `3ee42766-8fe3-11ee-84c2-be9e347a0ee6`
+2023-12-01 08:47:51    [INFO]             new session with uid `41c3621c-8fe3-11ee-84c2-be9e347a0ee6`
+2023-12-01 08:51:18    [INFO]             new session with uid `bcf9587e-8fe3-11ee-aba8-be9e347a0ee6`
+2023-12-01 08:52:11    [INFO]             new session with uid `dc9ce27c-8fe3-11ee-afbe-be9e347a0ee6`
+2023-12-01 08:52:14    [INFO]             new session with uid `de249f04-8fe3-11ee-afbe-be9e347a0ee6`
+2023-12-01 08:52:22    [INFO]             session $de249f04-8fe3-11ee-afbe-be9e347a0ee6 join room $e2d7
+2023-12-01 08:52:22    [INFO]             create room with room_id `e2d7` by session `de249f04-8fe3-11ee-afbe-be9e347a0ee6`
+2023-12-01 08:54:55    [INFO]             new session with uid `3e7f3328-8fe4-11ee-afbe-be9e347a0ee6`
+2023-12-01 08:59:53    [INFO]             new session with uid `ef991110-8fe4-11ee-99ea-be9e347a0ee6`
+2023-12-01 08:59:57    [INFO]             new session with uid `f2130874-8fe4-11ee-99ea-be9e347a0ee6`
+2023-12-01 09:00:12    [INFO]             session $f2130874-8fe4-11ee-99ea-be9e347a0ee6 join room $fb23
+2023-12-01 09:00:12    [INFO]             create room with room_id `fb23` by session `f2130874-8fe4-11ee-99ea-be9e347a0ee6`
+2023-12-01 09:00:15    [INFO]             session $f2130874-8fe4-11ee-99ea-be9e347a0ee6 join room $fd00
+2023-12-01 09:00:15    [INFO]             create room with room_id `fd00` by session `f2130874-8fe4-11ee-99ea-be9e347a0ee6`
+2023-12-01 09:00:22    [INFO]             session $f2130874-8fe4-11ee-99ea-be9e347a0ee6 join room $0150
+2023-12-01 09:00:22    [INFO]             create room with room_id `0150` by session `f2130874-8fe4-11ee-99ea-be9e347a0ee6`
+2023-12-01 09:14:36    [INFO]             new session with uid `fe683462-8fe6-11ee-9ea3-be9e347a0ee6`
+2023-12-01 09:14:50    [INFO]             new session with uid `0650b8ac-8fe7-11ee-80a1-be9e347a0ee6`
+2023-12-01 09:15:05    [INFO]             new session with uid `0f6dac1a-8fe7-11ee-80a1-be9e347a0ee6`
+2023-12-01 09:15:07    [INFO]             new session with uid `10df7542-8fe7-11ee-80a1-be9e347a0ee6`
+2023-12-01 09:15:24    [INFO]             new session with uid `1ade2ee4-8fe7-11ee-8f05-be9e347a0ee6`
+2023-12-01 09:16:48    [INFO]             new session with uid `4d0a3160-8fe7-11ee-8f05-be9e347a0ee6`
+2023-12-01 09:19:37    [INFO]             new session with uid `b1c5a86e-8fe7-11ee-89d5-be9e347a0ee6`
+2023-12-01 09:21:34    [INFO]             new session with uid `f768c7ca-8fe7-11ee-89d5-be9e347a0ee6`
+2023-12-01 09:27:20    [INFO]             new session with uid `c5d9ac8c-8fe8-11ee-ada0-be9e347a0ee6`
+2023-12-01 09:27:28    [INFO]             session $c5d9ac8c-8fe8-11ee-ada0-be9e347a0ee6 join room $ca47
+2023-12-01 09:27:28    [INFO]             create room with room_id `ca47` by session `c5d9ac8c-8fe8-11ee-ada0-be9e347a0ee6`
+2023-12-01 09:52:46    [INFO]             new session with uid `5314a734-8fec-11ee-bdf9-be9e347a0ee6`
+2023-12-01 09:53:32    [INFO]             new session with uid `6e78f8a4-8fec-11ee-bdf9-be9e347a0ee6`
+2023-12-01 09:53:41    [INFO]             new session with uid `7403c61e-8fec-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:03:48    [INFO]             new session with uid `dd8d8178-8fed-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:04:04    [INFO]             session $dd8d8178-8fed-11ee-bdf9-be9e347a0ee6 join room $e789
+2023-12-01 10:04:04    [INFO]             create room with room_id `e789` by session `dd8d8178-8fed-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:04:26    [INFO]             new session with uid `f42591be-8fed-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:04:30    [INFO]             session $f42591be-8fed-11ee-bdf9-be9e347a0ee6 join room $e789
+2023-12-01 10:40:09    [INFO]             new session with uid `f1981b60-8ff2-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:40:25    [INFO]             new session with uid `fb6ee812-8ff2-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:40:33    [INFO]             session $fb6ee812-8ff2-11ee-bdf9-be9e347a0ee6 join room $0014
+2023-12-01 10:40:33    [INFO]             create room with room_id `0014` by session `fb6ee812-8ff2-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:41:29    [INFO]             session $f1981b60-8ff2-11ee-bdf9-be9e347a0ee6 join room $2124
+2023-12-01 10:41:29    [INFO]             create room with room_id `2124` by session `f1981b60-8ff2-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:41:57    [INFO]             session $f1981b60-8ff2-11ee-bdf9-be9e347a0ee6 join room $31e9
+2023-12-01 10:41:57    [INFO]             create room with room_id `31e9` by session `f1981b60-8ff2-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:47:54    [INFO]             invalid uid `f1981b60-8ff2-11ee-bdf9-be9e347a0ee6`
+2023-12-01 10:47:54    [INFO]             new session with uid `06f190c6-8ff4-11ee-b540-be9e347a0ee6`
+2023-12-01 10:47:59    [INFO]             session `06f190c6-8ff4-11ee-b540-be9e347a0ee6` join room `09c0`
+2023-12-01 10:47:59    [INFO]             create room with room_id `09c0` by session `06f190c6-8ff4-11ee-b540-be9e347a0ee6`
+2023-12-01 10:48:28    [INFO]             session `06f190c6-8ff4-11ee-b540-be9e347a0ee6` join room `1b69`
+2023-12-01 10:48:28    [INFO]             create room with room_id `1b69` by session `06f190c6-8ff4-11ee-b540-be9e347a0ee6`
+2023-12-01 11:04:07    [INFO]             session `06f190c6-8ff4-11ee-b540-be9e347a0ee6` join room `4aaf`
+2023-12-01 11:04:07    [INFO]             create room with room_id `4aaf` by session `06f190c6-8ff4-11ee-b540-be9e347a0ee6`
+2023-12-01 11:04:17    [INFO]             invalid uid `dd8d8178-8fed-11ee-bdf9-be9e347a0ee6`
+2023-12-01 11:04:22    [INFO]             invalid uid `dd8d8178-8fed-11ee-bdf9-be9e347a0ee6`
+2023-12-01 11:06:15    [INFO]             invalid uid `dd8d8178-8fed-11ee-bdf9-be9e347a0ee6`
+2023-12-01 11:06:20    [INFO]             invalid uid `dd8d8178-8fed-11ee-bdf9-be9e347a0ee6`
+2023-12-01 11:06:20    [INFO]             new session with uid `9a517a3c-8ff6-11ee-b540-be9e347a0ee6`
+2023-12-01 11:06:24    [INFO]             session `9a517a3c-8ff6-11ee-b540-be9e347a0ee6` join room `4aaf`
+2023-12-01 11:07:05    [INFO]             invalid uid `06f190c6-8ff4-11ee-b540-be9e347a0ee6`
+2023-12-01 11:07:38    [INFO]             invalid uid `06f190c6-8ff4-11ee-b540-be9e347a0ee6`
+2023-12-01 11:07:38    [INFO]             new session with uid `c89ec480-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:07:44    [INFO]             session `c89ec480-8ff6-11ee-9d71-be9e347a0ee6` join room `cc15`
+2023-12-01 11:07:44    [INFO]             create room with room_id `cc15` by session `c89ec480-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:07:53    [INFO]             invalid uid `9a517a3c-8ff6-11ee-b540-be9e347a0ee6`
+2023-12-01 11:07:56    [INFO]             invalid uid `9a517a3c-8ff6-11ee-b540-be9e347a0ee6`
+2023-12-01 11:07:56    [INFO]             new session with uid `d34ef620-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:07:58    [INFO]             session `d34ef620-8ff6-11ee-9d71-be9e347a0ee6` join room `cc15`
+2023-12-01 11:15:54    [INFO]             invalid uid `c89ec480-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:16:16    [INFO]             invalid uid `c89ec480-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:17:25    [INFO]             invalid uid `c89ec480-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:19:39    [INFO]             invalid uid `c89ec480-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:19:45    [INFO]             invalid uid `c89ec480-8ff6-11ee-9d71-be9e347a0ee6`
+2023-12-01 11:19:45    [INFO]             new session with uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:21:03    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:21:09    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:21:21    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:21:24    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:21:35    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:23:11    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:23:21    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:23:51    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:24:22    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:24:40    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:25:36    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:25:55    [INFO]             invalid uid `79ff5982-8ff8-11ee-a5c2-be9e347a0ee6`
+2023-12-01 11:25:55    [INFO]             new session with uid `56852512-8ff9-11ee-b9af-be9e347a0ee6`
+2023-12-01 11:26:12    [INFO]             session `56852512-8ff9-11ee-b9af-be9e347a0ee6` join room `6088`
+2023-12-01 11:26:12    [INFO]             create room with room_id `6088` by session `56852512-8ff9-11ee-b9af-be9e347a0ee6`
+2023-12-01 11:28:20    [INFO]             invalid uid `56852512-8ff9-11ee-b9af-be9e347a0ee6`
+2023-12-01 11:29:03    [INFO]             invalid uid `56852512-8ff9-11ee-b9af-be9e347a0ee6`
+2023-12-01 11:29:10    [INFO]             invalid uid `56852512-8ff9-11ee-b9af-be9e347a0ee6`
+2023-12-01 11:29:10    [INFO]             new session with uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:13    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:14    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:15    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:16    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:18    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:19    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:21    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:23    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:24    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:25    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:27    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:28    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:30    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:31    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:45    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:46    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:47    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:48    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:49    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:50    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:50    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:51    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:52    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:53    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:55    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:56    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:58    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:34:59    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:00    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:02    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:02    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:04    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:05    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:06    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:08    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:08    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:10    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:11    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:13    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:14    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:16    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:18    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:20    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:20    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:22    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:24    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:26    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:26    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:28    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:29    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:31    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:32    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:34    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:36    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:37    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:38    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:38    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:40    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:41    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:43    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:44    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:44    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:46    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:47    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:49    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:50    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:52    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:53    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:55    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:56    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:35:58    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:00    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:02    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:02    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:04    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:06    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:07    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:08    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:10    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:12    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:13    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:15    [INFO]             invalid uid `ca7ab98c-8ff9-11ee-bd8c-be9e347a0ee6`
+2023-12-01 11:36:15    [INFO]             new session with uid `c8419892-8ffa-11ee-b718-be9e347a0ee6`
+2023-12-01 11:36:43    [INFO]             session `c8419892-8ffa-11ee-b718-be9e347a0ee6` join room `d8f9`
+2023-12-01 11:36:43    [INFO]             create room with room_id `d8f9` by session `c8419892-8ffa-11ee-b718-be9e347a0ee6`
+2023-12-01 11:37:06    [INFO]             invalid uid `c8419892-8ffa-11ee-b718-be9e347a0ee6`
+2023-12-01 11:37:09    [INFO]             invalid uid `c8419892-8ffa-11ee-b718-be9e347a0ee6`
+2023-12-01 11:37:17    [INFO]             invalid uid `c8419892-8ffa-11ee-b718-be9e347a0ee6`
+2023-12-01 11:37:17    [INFO]             new session with uid `ecdf54b4-8ffa-11ee-bc93-be9e347a0ee6`
+2023-12-01 11:37:50    [INFO]             session `ecdf54b4-8ffa-11ee-bc93-be9e347a0ee6` join room `007b`
+2023-12-01 11:37:50    [INFO]             create room with room_id `007b` by session `ecdf54b4-8ffa-11ee-bc93-be9e347a0ee6`
+2023-12-01 11:38:11    [INFO]             invalid uid `ecdf54b4-8ffa-11ee-bc93-be9e347a0ee6`
+2023-12-01 11:38:24    [INFO]             invalid uid `ecdf54b4-8ffa-11ee-bc93-be9e347a0ee6`
+2023-12-01 11:38:24    [INFO]             new session with uid `150230d8-8ffb-11ee-b84b-be9e347a0ee6`
+2023-12-01 11:39:45    [INFO]             invalid uid `150230d8-8ffb-11ee-b84b-be9e347a0ee6`
+2023-12-01 11:39:51    [INFO]             invalid uid `150230d8-8ffb-11ee-b84b-be9e347a0ee6`
+2023-12-01 11:39:51    [INFO]             new session with uid `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:40:03    [INFO]             session `4874e4f6-8ffb-11ee-a409-be9e347a0ee6` join room `5000`
+2023-12-01 11:40:03    [INFO]             create room with room_id `5000` by session `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:49:59    [INFO]             session `4874e4f6-8ffb-11ee-a409-be9e347a0ee6` join room `b34e`
+2023-12-01 11:49:59    [INFO]             create room with room_id `b34e` by session `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:50:26    [INFO]             invalid uid `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:50:28    [INFO]             invalid uid `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:50:29    [INFO]             invalid uid `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:50:30    [INFO]             invalid uid `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:50:32    [INFO]             invalid uid `4874e4f6-8ffb-11ee-a409-be9e347a0ee6`
+2023-12-01 11:50:32    [INFO]             new session with uid `c6f6bad8-8ffc-11ee-9a4f-be9e347a0ee6`
+2023-12-01 11:50:41    [INFO]             session `c6f6bad8-8ffc-11ee-9a4f-be9e347a0ee6` join room `cc2a`
+2023-12-01 11:50:41    [INFO]             create room with room_id `cc2a` by session `c6f6bad8-8ffc-11ee-9a4f-be9e347a0ee6`
+2023-12-02 11:55:51    [INFO]             invalid uid `c6f6bad8-8ffc-11ee-9a4f-be9e347a0ee6`
+2023-12-02 11:55:51    [INFO]             new session with uid `af35d04e-90c6-11ee-b848-be9e347a0ee6`
+2023-12-02 11:57:15    [INFO]             session `af35d04e-90c6-11ee-b848-be9e347a0ee6` join room `e136`
+2023-12-02 11:57:15    [INFO]             create room with room_id `e136` by session `af35d04e-90c6-11ee-b848-be9e347a0ee6`
+2023-12-02 11:59:09    [INFO]             invalid uid `af35d04e-90c6-11ee-b848-be9e347a0ee6`
+2023-12-02 11:59:09    [INFO]             new session with uid `2591a146-90c7-11ee-818d-be9e347a0ee6`
+2023-12-02 11:59:15    [INFO]             session `2591a146-90c7-11ee-818d-be9e347a0ee6` join room `28db`
+2023-12-02 11:59:15    [INFO]             create room with room_id `28db` by session `2591a146-90c7-11ee-818d-be9e347a0ee6`

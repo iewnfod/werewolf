@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title>创建房间</title>
+	<script src="js/index.js"></script>
+	<script src="js/identities.js"></script>
+</head>
+
+<body>
+	<div style="position: fixed; z-index: 999; margin: 10px" class="u-shadow-lg">
+		<div class="tag p-4 text-lg" style="padding: 20px">
+			<span>总数: </span>
+			<span id="total">0</span>
+		</div>
+	</div>
+
+	<div class="u-center" style="flex-direction: column">
+		<div id="card_containers" style="width: 100%; display: grid; grid-template-columns: auto auto">
+		</div>
+		<div class="divider"></div>
+		<button class="btn-link outline text-lg" style="padding: 30px 60px" id="create">创建</button>
+	</div>
+</body>
+
+<script>
+	let container = document.getElementById("card_containers");
+
+	function update_total() {
+		let total = 0;
+		for (let i = 0; i < identities.length; i ++) {
+			let value = document.getElementById(`${identities[i].name}_num`).value;
+			if (value !== '') total += parseInt(value);
+		}
+		document.getElementById('total').innerText = total.toString();
+	}
+
+	for (let i = 0; i < identities.length; i ++) {
+		let identity = identities[i];
+		let ele = document.createElement('div');
+		container.appendChild(ele);
+
+		ele.style.width = '100%';
+		ele.style.display = 'flex';
+		ele.style.justifyContent = 'center';
+		ele.style.alignItems = 'center';
+		ele.style.flexGrow = '1';
+
+		ele.innerHTML = `
+			<div class="card" style="max-width: 350px; margin: 10px; width: 100%">
+			    <div class="card__container">
+			        <div class="card__image default_img"></div>
+			        <div class="card__title-container">
+			            <p class="title">${identity.name}</p>
+			            <span class="subtitle">个数: </span>
+			            <input id="${identity.name}_num" type="number" min="0" placeholder="0">
+			        </div>
+			    </div>
+			    <div class="card__action-bar u-center btn-group">
+			        <button class="btn-link outline text-lg" name="${identity.name}" id="${identity.name}_minus">-1</button>
+			        <button class="btn-link outline text-lg" name="${identity.name}" id="${identity.name}_add">+1</button>
+			    </div>
+			</div>
+		`
+
+		document.getElementById(`${identity.name}_minus`).addEventListener('click', function (e) {
+			let name = e.target.getAttribute('name');
+			let num_ele = document.getElementById(`${name}_num`);
+			if (num_ele.value !== '') {
+				num_ele.value = Math.max(parseInt(num_ele.value)-1, 0);
+			}
+
+			update_total();
+		});
+
+		document.getElementById(`${identity.name}_add`).addEventListener('click', function (e) {
+			let name = e.target.getAttribute('name');
+			let num_ele = document.getElementById(`${name}_num`);
+			if (num_ele.value !== '') {
+				num_ele.value = parseInt(num_ele.value)+1;
+			} else {
+				num_ele.value = 1;
+			}
+
+			update_total();
+		});
+
+		document.getElementById(`${identity.name}_num`).addEventListener('input', function (e) {
+			update_total();
+		})
+	}
+
+	document.getElementById('create').addEventListener('click', function (e) {
+		let total = parseInt(document.getElementById('total').innerText);
+		if (total < 3 || total > 30) {
+			swal('Failed to Create', 'There should be at least 3 players or at most 30 players. ', 'error');
+			return ;
+		}
+		let kind = {}
+		for (let i = 0; i < identities.length; i ++) {
+			let name = identities[i].name;
+			let num = document.getElementById(`${name}_num`).value;
+			kind[name] = num === '' ? 0 : parseInt(num);
+		}
+
+		let url = new URL(`${_url}/api/create_room`);
+		fetch(url.toString(), {
+			method: 'POST',
+			body: JSON.stringify({
+				'player_num': total,
+				'player_kind': kind,
+			}),
+			headers: {
+				"Content-Type": "application/json"
+			}
+		})
+				.then(handleFetch)
+				.then(data => {
+					console.log(data['success']);
+					if (data['success'] === false) {
+						return Promise.reject(data['info']);
+					}
+					document.getElementById('create').classList.remove(...loadingClassList);
+					let room_id = data['data']['room']['room_id'];
+					document.cookie = `room_id=${room_id}`;
+					window.location.href = new URL(`${_url}/room`).toString();
+				})
+				.catch(err => {
+					document.getElementById('create').classList.remove(...loadingClassList);
+					swal('Failed to Create', err, 'error');
+				});
+
+		document.getElementById('create').classList.add(...loadingClassList);
+	});
+</script>
+
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>加入房间</title>
+	<script src="js/index.js"></script>
+</head>
+<body>
+	<div class="u-center">
+		<div class="form-group" style="width: 100%; padding: 20px; height: 100%">
+			<label class="form-group-label label--lg" style="padding: 20px; width: 30%">房间号: </label>
+			<input type="text" class="form-group-input input--lg" style="font-size: 2rem" id="code">
+		</div>
+		<button class="btn-link outline text-lg" style="padding: 30px 60px" id="join">加入</button>
+	</div>
+</body>
+<script>
+	document.getElementById('join').addEventListener('click', function (e) {
+		let room_id = document.getElementById('code').value;
+		if (room_id.length !== 4 || room_id === '') swal('There should be 4 characters for a room code. ');
+
+		let url = new URL(`${_url}/api/join_room`);
+		url.searchParams.append('room_id', room_id);
+		fetch(url.toString(), {method: 'get'})
+				.then(handleFetch)
+				.then(data => {
+					console.log(data);
+					if (data['success'] === false) Promise.reject(data['info']);
+					let room_id = data['data']['room']['room_id'];
+					document.cookie = `room_id=${room_id}`
+					window.location.href = new URL(`${_url}/room`).toString();
+				})
+				.catch(err => {
+					swal('Failed to Join Room', err)
+				})
+	});
+</script>
+</html>

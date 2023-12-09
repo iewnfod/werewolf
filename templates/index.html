@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<script src="js/index.js"></script>
+	<title>首页</title>
+</head>
+<body>
+	<div class="u-center">
+		<table>
+			<tbody>
+				<tr>
+					<td>
+						<button id="create_room" class="btn-link outline">创建房间</button>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<button id="join_room" class="btn-link outline">加入房间</button>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</body>
+<script>
+	document.getElementById("create_room").addEventListener("click", function (e) {
+		window.location.href = new URL(`${_url}/create`).toString();
+	});
+
+	document.getElementById('join_room').addEventListener('click', function (e) {
+		window.location.href = new URL(`${_url}/join`).toString();
+	})
+</script>
+</html>

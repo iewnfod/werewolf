@@ -1,0 +1,17 @@
+button {
+    margin: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.default_img {
+    background-color: rebeccapurple;
+    background-image: radial-gradient(
+            circle at right top, rgb(0, 255, 255),
+            rgba(0, 255, 255, 0)
+    ), radial-gradient(
+            circle at left bottom,
+            rgb(255, 20, 146),
+            rgba(255, 20, 146, 0)
+    );
+}

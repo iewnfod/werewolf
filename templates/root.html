@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>连接</title>
+	<script>
+		let root = true;
+	</script>
+	<script src="js/index.js"></script>
+</head>
+<body>
+	<div class="u-center">
+		<button id="bt" class="btn-link outline">连接</button>
+	</div>
+</body>
+<script>
+	document.getElementById("bt").addEventListener("click", function () {
+		let url = new URL(`${_url}/api/connect`);
+		document.getElementById('bt').classList.add(...loadingClassList);
+		fetch(url.toString(), {method: 'get'})
+				.then(handleFetch)
+				.then(data => {
+					// console.log(data);
+					document.cookie = `uid=${data['data']['uid']}`;
+					window.location.href = new URL(`${_url}/index`).toString();
+					document.getElementById('bt').classList.remove(...loadingClassList);
+				})
+				.catch(err => {
+					document.getElementById('bt').classList.remove(...loadingClassList);
+					swal(`Failed to Connect`, err, "error");
+				});
+	})
+</script>
+</html>
